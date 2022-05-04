@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zantodev
-- 🌱 I’m currently learning CSS + JavaScript + C++
+- 🌱 A Front-End Developer using CSS + JavaScript
 - 💞️ I’m looking to collaborate on any project
-- 📫 Reach me twitter.com/zantodev
+- 📫 Reach me twitter.com/the_tonytone
 
