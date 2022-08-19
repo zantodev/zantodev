@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **zantodev@gmail.com**
 
-- ⚡ Fun fact **I have too many pets**
+- ⚡ Fun fact ** In Morse Code -.- means k.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
