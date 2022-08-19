@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tony Z.</h1>
+<h1 align="center">Hi 👋, I'm Tony </h1>
 <h3 align="center">A passionate frontend developer from Los Angeles, CA</h3>
 
 - 📫 How to reach me **zantodev@gmail.com**
