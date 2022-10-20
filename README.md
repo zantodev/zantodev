@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony Zepeda</h1>
-<h3 align="center">A passionate fullstack developer from Los Angeles</h3>
+<h3 align="center">A passionate Software Engineer from Los Angeles</h3>
 
 - 🔭 I’m currently working on **A booking application for independent contractors, specifically barbers, manicurist, beauticians, etc.**
 
