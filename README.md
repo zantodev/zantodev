@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **full-stack applications**
 
-- 👨‍💻 All of my projects are available at [zanto.dev](zanto.dev)
+- 👨‍💻 All of my projects are available at [zanto.dev](www.zanto.dev)
 
 - 💬 Ask me about **react, tailwind, node, mongodb**
 
