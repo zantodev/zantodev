@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **full-stack applications**
 
-- 👨‍💻 All of my projects are available at [zanto.dev](www.zanto.dev)
-
 - 💬 Ask me about **react, tailwind, node, mongodb**
 
 - 📫 How to reach me **twitter.com/verydevy**
