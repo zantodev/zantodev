@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **A group project**
+- 👯 I’m looking to collaborate on **Group Project**
 
-- 🤝 I’m looking for help with **full-stack applications**
+- 🤝 I’m looking for help with **Full-Stack Applications**
 
-- 💬 Ask me about **react, tailwind, node, mongodb**
+- 💬 Ask me about **REACT, NODE, MongoDB, EXPRESS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
