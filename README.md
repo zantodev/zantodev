@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **something special**
+- 👯 I’m looking to collaborate on **A group project**
 
 - 🤝 I’m looking for help with **full-stack applications**
 
 - 💬 Ask me about **react, tailwind, node, mongodb**
-
-- 📫 How to reach me **twitter.com/verydevy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
