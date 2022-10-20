@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tony Zepeda</h1>
 <h3 align="center">A passionate fullstack developer from Los Angeles</h3>
 
-- 🔭 I’m currently working on **A booking application for independent contractors, especifically barbers, manicurist, beauticians, etc. **
+- 🔭 I’m currently working on **A booking application for independent contractors, specifically barbers, manicurist, beauticians, etc. **
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
