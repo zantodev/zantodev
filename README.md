@@ -1,5 +1,5 @@
-<h1 align="center">Hey There! 👋</h1>
-<h3 align="center">I'm Tony, a full-stack Software Engineer from Los Angeles</h3>
+<h1>Hey There! 👋</h1>
+<h3>I'm Tony, a full-stack Software Engineer from Los Angeles</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
