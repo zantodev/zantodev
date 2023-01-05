@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tony Zepeda</h1>
-<h3 align="center">A passionate Software Engineer from Los Angeles</h3>
-
-- 🔭 I’m currently working on **A booking application for independent contractors, specifically barbers, manicurist, beauticians, etc.**
+<h1 align="center">Hey There! 👋</h1>
+<h3 align="center">I'm Tony, a full-stack Software Engineer from Los Angeles</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
@@ -9,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Full-Stack Applications**
 
-- 💬 Ask me about **REACT, NODE, MongoDB, EXPRESS**
+- 💬 Ask me about **NODE, MongoDB, EXPRESS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
